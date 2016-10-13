@@ -1,0 +1,11 @@
+# For more information about this configuation visit
+# https://github.com/fastlane/scan#scanfile
+
+# In general, you can use the options available
+# scan --help
+
+ open_report true
+
+ clean true
+ 
+ output_types "html"

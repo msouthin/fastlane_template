@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+      
+      <testcase classname="fastlane.lanes" name="0: Verifying required fastlane version" time="0.000814">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.000415">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: opt_out_usage" time="0.0007">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: update_fastlane" time="4.470245">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: gem cleanup" time="0.638937">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: last_git_commit" time="0.059292">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: clear_derived_data" time="0.052746">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: prompt_with_choices" time="2.281281">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="8: prompt_with_choices" time="2.669765">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="9: prompt_with_choices" time="1.886602">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="10: cert" time="5.583346">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="11: sigh" time="2.900848">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="12: is_ci" time="0.00066">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="13: number_of_commits" time="0.280593">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="14: increment_build_number" time="3.848797">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="15: say" time="2.831644">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="16: overlay_app_icon" time="3.292962">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="17: gym" time="250.760715">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="18: is_ci" time="0.000526">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="19: Switch to ios fabric lane" time="0.000366">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="20: git rev-parse HEAD" time="0.04616">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="21: crashlytics" time="17.642006">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="22: upload_symbols_to_crashlytics" time="7.804471">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="23: hipchat" time="0.452427">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="24: is_ci" time="0.000285">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="25: notification" time="0.199408">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
